@@ -26,6 +26,7 @@ Some other important info i found are in this doc : https://docs.google.com/docu
 
 Now I am currently learning python for machine learning from IITG.ai course : https://machinelearning-ai.netlify.app/
 will refer to the Applied Machine Learning in Python course when necessary : https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python#syllabus
+I will also watch these lectures, Stanford CS229: https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 Currently I am studying Python implementation of ML from my MLFA lab : link to the jupyter notebooks we use: https://drive.google.com/drive/folders/1cWOtk1R1riRWV2_FEQ1JO80-rXvySU2S?usp=sharing
 
 ## Kaggle challenge task
